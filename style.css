@@ -17,6 +17,7 @@
     align-items: center;
     justify-content: center;
      font-weight: bold;
+     background-color:#d9d9d9;
 }
 
 .logo {
@@ -42,55 +43,55 @@
 .titulo{
     background-color: #7b96d4;
     color: white;
-    font-size: 20px;
+    font-size: 125%;
     grid-column: 1;
     grid-row-start: 1;
-    padding-left: 180px;
-    padding-top: 50px;
+    padding-left: 27%;
+    padding-top: 7%;
 }
 
 .subTitulo{
     background-color: #7b96d4;
     color: white;
-    padding-top: 20px;
-    font-size: 15px;
+    padding-top: 3%;
+    font-size: 95%;
     grid-column: 2;
     grid-row: 1; 
-    padding-left: 200px;
+    padding-left: 31%;
 }
 
 .alinhar {
-    padding-right: 170px;
-    padding-bottom: 10px;
+    padding-right: 25%;
+    padding-bottom: 2%;
     color: #d9d9d9;
 }
 
 .email {
-    padding-left: 15px;
-    width: 190px;
-    height: 30px;   
+    padding-left: 2%;
+    width: 30%;
+    height: 4.5%;   
 }
 
 .senha {
-    padding-left: 15px;
-    width: 190px;
-    height: 30px;     
+    padding-left: 2%;
+    width: 30%;
+    height: 4.5%;    
 }
 
 .esqueceu {
-    padding-top: 20px;
+    padding-top: 5%;
     color: white;
-    padding-bottom: 20px;
+    padding-bottom: 4%;
 }
 
 .botao{
     background-color: #95a9d8;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
     font-weight: bold;
-    margin-bottom: 200px;
+    margin-bottom: 30%;
     color: white;
     border: 0px;
     cursor: pointer;
